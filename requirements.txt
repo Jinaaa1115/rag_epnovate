@@ -1,0 +1,5 @@
+langchain-community
+langchain
+chromadb
+fastembed
+langchain_google_genai
